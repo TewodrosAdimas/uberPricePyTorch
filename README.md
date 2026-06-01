@@ -36,7 +36,3 @@ pip install torch pandas numpy scikit-learn matplotlib seaborn
 ## 👨‍💻 Author
 Tewodros Bewuket
 ```
-
----
-
-If you want it **even shorter** or **more aesthetic**, I can compress it further.
